@@ -12,6 +12,7 @@ You have two options:
 Import the following libraries into your project:
 - /bin/Release/Newtonsoft.Json.dll
 - /bin/Release/ZermeloAPI.dll
+- /bin/Release/System.Net.Http.dll
 
 #### Compile by yourself
 Do you want to make custom modifications to the code that suit you needs?
